@@ -14,7 +14,7 @@
   <a target="_blank"href="https://dev.to/sahilofficial/"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/sahilofficial74/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a href="mailto:sahilofficial@gmail.com?subject=Hello%20Sahil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://www.kaggle.com/sahilofficial74"><img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2015%2F06%2Fstart-journey-kaggle%2F&psig=AOvVaw2p_XDM_BFsihIbzCA2LR2U&ust=1639664272061000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDFkcf_5fQCFQAAAAAdAAAAABAI" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/sahilofficial74"><img src="https://miro.medium.com/max/700/1*7sf40D8NGpopQhMwkYGDQg.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
