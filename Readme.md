@@ -6,12 +6,11 @@
 <h3 align="left">Hello World, I'm Sahil!</h3>
 
 <h3>
-  <p>Mechatronics Engineer</p>
+  <p>I'm a Mechatronics Engineer</p>
 </h3> 
 
 <h2  align="center"></h2>
 <p align="center">
-  <a target="_blank"href="https://dev.to/sahilofficial/"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/sahilofficial74/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/sahilofficial74"><img src="https://miro.medium.com/max/700/1*7sf40D8NGpopQhMwkYGDQg.jpeg" width="125"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -30,7 +29,7 @@ class Sahil:
         self.code = {
             'languages': ['Python', 'SQL', 'Java'],
             'pytools': ['NumPy',  'Pandas', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'TensorFlow'],
-            'tools': ['Git', 'GNU/Linux']            
+            'tools': ['Git', 'Linux']            
         }
 
     def __str__(self):
