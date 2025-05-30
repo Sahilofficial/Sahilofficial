@@ -6,7 +6,7 @@
 <h3 align="left">Hello World, I'm Sahil!</h3>
 
 <h3>
-  <p>I'm a Mechatronics Engineer</p>
+  <p>I'm a SAP ABAP Consultant</p>
 </h3> 
 
 <h2  align="center"></h2>
